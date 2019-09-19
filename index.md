@@ -2,6 +2,6 @@
 
 ## Maybe not hidden enough
 
-### Someday 
+### We'll submit a request to increase stealth
 
 Student at UMGC = **University of Maryland *Global Campus***
