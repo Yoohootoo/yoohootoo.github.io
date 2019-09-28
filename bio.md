@@ -1,3 +1,3 @@
-#Life of Rick
+# Life of Rick
 
 [Home](index)
