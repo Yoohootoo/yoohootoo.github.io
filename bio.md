@@ -8,7 +8,7 @@ Rick left his home in Kashyyyk to join the Rebel Alliance. Most wookies didn't g
 
 The places he visited next were:
 + [Yavin 4](https://starwars.fandom.com/wiki/Yavin_4)
-+ Alderaan (really!)
-+ Hoth (The worst)
++ [Alderaan (really!)](https://starwars.fandom.com/wiki/Alderaan)
++ [Hoth (The worst)](https://starwars.fandom.com/wiki/Hoth)
 
 [Home](index)
