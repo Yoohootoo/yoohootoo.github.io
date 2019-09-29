@@ -25,3 +25,5 @@ Too much light exposure will make your image very light, and too little light wi
 Now that you know the exposure settings, you can control the movement blur, the area in focus, and the image grain. All that's left is to go practice, so just get out and do it.
 
 [Click here to return to the Rebel Alliance Home Page](index)
+
+[Click here for Rick's bio](yoohootoo.github.io/bio)
