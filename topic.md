@@ -15,3 +15,7 @@ Each exposure setting will raise or lower the amount of light hitting the sensor
 ## Find out how to change the exposure settings on your camera
 On this camera they are here.
 ![Exposure Settings](exposure_settings.png)
+
+## Point your camera at something and balance your exposure settings
+Too much light exposure will make your image very light, and too little light will make it very dark. Use the exposure indicator to know how exposed the sensor is. An exposure of 0 means the sensor has an average exposure of light and dark, and on automatic the camera will shoot at 0. 
+![Exposure Indicator](exposure_indicator.PNG)
