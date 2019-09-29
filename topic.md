@@ -14,4 +14,4 @@ Each exposure setting will raise or lower the amount of light hitting the sensor
 
 ## Find out how to change the exposure settings on your camera
 On this camera they are here.
-[Exposure Settings](exposure_settings.png)
+![Exposure Settings](exposure_settings.png)
