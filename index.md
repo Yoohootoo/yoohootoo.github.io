@@ -6,6 +6,8 @@
 
 Student at UMGC = **University of Maryland *Global Campus***
 
+[Click here for bio](yoohootoo.github.io/bio)
+
 ![Our Logo](Redstarbird.png)
 
 [Home](index)
