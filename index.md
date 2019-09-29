@@ -12,4 +12,4 @@ Student at UMGC = **University of Maryland *Global Campus***
 
 [Home](index)
 
-[Topic](Topic)
+[Topic](yoohootoo.github.io/topic)
