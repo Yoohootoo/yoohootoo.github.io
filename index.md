@@ -6,7 +6,7 @@
 
 Student at UMGC = **University of Maryland *Global Campus***
 
-[Click here for Rick's bio](ybio)
+[Click here for Rick's bio](bio)
 
 [Click here for Topic](topic)
 
