@@ -26,4 +26,4 @@ Now that you know the exposure settings, you can control the movement blur, the 
 
 [Click here to return to the Rebel Alliance Home Page](index)
 
-[Click here for Rick's bio](yoohootoo.github.io/bio)
+[Click here for Rick's bio](bio)
